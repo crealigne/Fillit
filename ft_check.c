@@ -72,6 +72,7 @@ int			ft_check_character(char *line, int *nbrline,
 	return (1);
 }
 
+
 int			ft_checker(char *file, t_tetriminos *tetri)
 {
 	int		fd;
